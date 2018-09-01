@@ -1,3 +1,3 @@
 # Hacktrain Landing Page
 
-This page is available on: http://hacktrain.bitballoon.com/
+This page is available on: https://hack-train.netlify.com
